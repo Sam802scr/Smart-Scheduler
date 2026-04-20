@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-f!sr$7n7f4u46%f#y@vj=xe7%5b*88y4v)ebv@79f+_k@oqo4e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['smart-scheduler-w5iw.onrender.com']
 
 
 # Application definition
